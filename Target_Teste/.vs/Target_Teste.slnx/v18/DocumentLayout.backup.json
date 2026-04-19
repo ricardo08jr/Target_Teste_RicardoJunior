@@ -46,9 +46,9 @@
               "Title": "FaturamentoAnualTests.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
               "RelativeDocumentMoniker": "Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
-              "ToolTip": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs*",
-              "RelativeToolTip": "Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
+              "RelativeToolTip": "Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T19:52:37.611Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Target_Teste.Api\\Requests\\FaturamentoRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:46:34.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:46:34.396Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Target_Teste.Domain\\Models\\FaturamentoAnual.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAwwDwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:19:54.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:19:54.474Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Target_Teste.Api\\Controllers\\FaturamentoController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:39:04.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:39:04.459Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Target_Teste.Application\\CalcularFaturamentoAnualUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:40:22.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:40:22.199Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Target_Teste.Api\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:43:00.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:43:00.816Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Target_Teste.Domain\\DTOs\\FaturamentoResultado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:25:57.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:25:57.58Z"
             }
           ]
         }
