@@ -1,0 +1,16 @@
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\bin\Debug\net8.0\Target_Teste.Application.deps.json
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\bin\Debug\net8.0\Target_Teste.Application.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\bin\Debug\net8.0\Target_Teste.Application.pdb
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\bin\Debug\net8.0\Target_Teste.Domain.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\bin\Debug\net8.0\Target_Teste.Domain.pdb
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.csproj.AssemblyReference.cache
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.AssemblyInfoInputs.cache
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.AssemblyInfo.cs
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.csproj.CoreCompileInputs.cache
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.sourcelink.json
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_T.87E54963.Up2Date
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\refint\Target_Teste.Application.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\Target_Teste.Application.pdb
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Application\obj\Debug\net8.0\ref\Target_Teste.Application.dll
