@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
-import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-
-@Component({
-  selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.html',
-  styleUrl: './app.css',
-})
-export class App {
-  protected readonly title = signal('faturamento-app');
-=======
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -57,5 +44,4 @@ export class App {
       }
     });
   }
->>>>>>> Stashed changes
 }
