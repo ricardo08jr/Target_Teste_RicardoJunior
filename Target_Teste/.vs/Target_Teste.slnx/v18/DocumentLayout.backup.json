@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5ECF905A-DF9E-DE3D-8736-EB18DC063FED}|Target_Teste.Api\\Target_Teste.Api.csproj|d:\\progama\u00E7\u00E3o\\projetos\\target_teste_ricardojunior\\target_teste\\target_teste.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECF905A-DF9E-DE3D-8736-EB18DC063FED}|Target_Teste.Api\\Target_Teste.Api.csproj|solutionrelative:target_teste.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64269CC3-5E33-4913-9DB6-70D9B9785D48}|Target_Teste.Domain.Tests\\Target_Teste.Domain.Tests.csproj|d:\\progama\u00E7\u00E3o\\projetos\\target_teste_ricardojunior\\target_teste\\target_teste.domain.tests\\faturamentoanualtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64269CC3-5E33-4913-9DB6-70D9B9785D48}|Target_Teste.Domain.Tests\\Target_Teste.Domain.Tests.csproj|solutionrelative:target_teste.domain.tests\\faturamentoanualtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D8B5634-6123-40DA-B18A-34586ACB2550}|Target_Teste.Application\\Target_Teste.Application.csproj|d:\\progama\u00E7\u00E3o\\projetos\\target_teste_ricardojunior\\target_teste\\target_teste.application\\calcularfaturamentoanualusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D8B5634-6123-40DA-B18A-34586ACB2550}|Target_Teste.Application\\Target_Teste.Application.csproj|solutionrelative:target_teste.application\\calcularfaturamentoanualusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECF905A-DF9E-DE3D-8736-EB18DC063FED}|Target_Teste.Api\\Target_Teste.Api.csproj|d:\\progama\u00E7\u00E3o\\projetos\\target_teste_ricardojunior\\target_teste\\target_teste.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECF905A-DF9E-DE3D-8736-EB18DC063FED}|Target_Teste.Api\\Target_Teste.Api.csproj|solutionrelative:target_teste.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FaturamentoAnualTests.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
               "RelativeDocumentMoniker": "Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
               "ToolTip": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
               "RelativeToolTip": "Target_Teste.Domain.Tests\\FaturamentoAnualTests.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:52:37.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T19:52:37.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FaturamentoRequest.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Requests\\FaturamentoRequest.cs",
               "RelativeDocumentMoniker": "Target_Teste.Api\\Requests\\FaturamentoRequest.cs",
@@ -67,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FaturamentoAnual.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain\\Models\\FaturamentoAnual.cs",
               "RelativeDocumentMoniker": "Target_Teste.Domain\\Models\\FaturamentoAnual.cs",
@@ -79,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FaturamentoController.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Controllers\\FaturamentoController.cs",
               "RelativeDocumentMoniker": "Target_Teste.Api\\Controllers\\FaturamentoController.cs",
@@ -91,7 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Target_Teste.Api\\Program.cs",
+              "ToolTip": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Program.cs",
+              "RelativeToolTip": "Target_Teste.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:43:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CalcularFaturamentoAnualUseCase.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Application\\CalcularFaturamentoAnualUseCase.cs",
               "RelativeDocumentMoniker": "Target_Teste.Application\\CalcularFaturamentoAnualUseCase.cs",
@@ -103,19 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Target_Teste.Api\\Program.cs",
-              "ToolTip": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Api\\Program.cs",
-              "RelativeToolTip": "Target_Teste.Api\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:43:00.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FaturamentoResultado.cs",
               "DocumentMoniker": "D:\\Progama\u00E7\u00E3o\\Projetos\\Target_Teste_RicardoJunior\\Target_Teste\\Target_Teste.Domain\\DTOs\\FaturamentoResultado.cs",
               "RelativeDocumentMoniker": "Target_Teste.Domain\\DTOs\\FaturamentoResultado.cs",
