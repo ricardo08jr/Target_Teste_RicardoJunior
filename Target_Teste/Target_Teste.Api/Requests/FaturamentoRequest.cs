@@ -1,6 +1,3 @@
-﻿namespace Target_Teste.Api.Requests
-{
-    public class FaturamentoRequest
-    {
-    }
-}
+﻿namespace Target_Teste.Api.Requests;
+
+public record FaturamentoRequest(decimal[] Valores);
