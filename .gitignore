@@ -49,3 +49,8 @@ _ReSharper*/
 
 *.cache
 *.pid
+
+
+node_modules/
+dist/
+build
