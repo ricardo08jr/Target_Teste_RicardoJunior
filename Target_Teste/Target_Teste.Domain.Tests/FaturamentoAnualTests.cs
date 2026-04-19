@@ -32,6 +32,17 @@ namespace Target_Teste.Domain.Tests
             Assert.NotEqual(3, resultado.DiasAcimaDaMedia);
         }
 
+        [Fact]
+        public void DeveIgnorarZerosNoCalculoDaMedia()
+        {
+            decimal[] dados = { 0m, 0m, 100m, 200m };
+
+            var faturamento = new FaturamentoAnual(dados);
+            var resultado = faturamento.CalcularResultado();
+
+            Assert.Equal(1, resultado.DiasAcimaDaMedia);
+        }
+
 
     }
 }
