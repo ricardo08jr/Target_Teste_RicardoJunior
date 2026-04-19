@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Target_Teste.Api/Target_Teste.Api.csproj" />
+    <Project Path="Target_Teste.Application/Target_Teste.Application.csproj" Id="0d8b5634-6123-40da-b18a-34586acb2550" />
+    <Project Path="Target_Teste.Domain/Target_Teste.Domain.csproj" Id="44f74358-b3eb-4889-b40a-f8d77bd02b1e" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Target_Teste.Domain.Tests/Target_Teste.Domain.Tests.csproj" Id="64269cc3-5e33-4913-9db6-70d9b9785d48" />
+  </Folder>
+</Solution>
