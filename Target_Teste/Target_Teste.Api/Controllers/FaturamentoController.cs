@@ -1,6 +1,5 @@
 ﻿namespace Target_Teste.Api.Controllers
 {
-    using Faturamento.Application;
     using Microsoft.AspNetCore.Mvc;
     using Target_Teste.Api.Requests;
     using Target_Teste.Application;
