@@ -1,4 +1,6 @@
 
+using Target_Teste.Application;
+
 namespace Target_Teste.Api
 {
     public class Program
@@ -13,7 +15,7 @@ namespace Target_Teste.Api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddScoped<CalcularFaturamentoAnualUseCase>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
