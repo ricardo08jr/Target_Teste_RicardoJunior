@@ -27,7 +27,7 @@ namespace Target_Teste.Domain.Models
 
             this.Valores = valores;
         }
-        public FaturamentoResult CalcularResultado()
+        public FaturamentoResultado CalcularResultado()
         {
             decimal menor = decimal.MaxValue;
             decimal maior = decimal.MinValue;
@@ -47,7 +47,7 @@ namespace Target_Teste.Domain.Models
             }
 
             if (diasComFaturamento == 0)
-                return new FaturamentoResult(0m, 0m, 0);
+                return new FaturamentoResultado(0m, 0m, 0);
 
             var media = soma / diasComFaturamento;
             int diasAcimaDaMedia = 0;
@@ -58,7 +58,7 @@ namespace Target_Teste.Domain.Models
                     diasAcimaDaMedia++;
             }
 
-            return new FaturamentoResult(menor, maior, diasAcimaDaMedia);
+            return new FaturamentoResultado(menor, maior, diasAcimaDaMedia);
         }
     }
 }
