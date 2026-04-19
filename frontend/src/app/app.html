@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 <!-- * * * * * * * * * * * The content below * * * * * * * * * * * -->
 <!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
@@ -351,3 +352,62 @@
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 
 <router-outlet />
+=======
+<div class="calculator-container">
+  <div class="glass-card">
+    <div class="header">
+      <div class="icon-wrapper">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+      </div>
+      <h1>Faturamento Anual</h1>
+      <p>Calcule as métricas de faturamento informando o array de valores.</p>
+    </div>
+
+    <div class="input-section">
+      <label for="json-input">Valores de Faturamento (JSON Array)</label>
+      <textarea 
+        id="json-input" 
+        [(ngModel)]="inputJson" 
+        rows="5"
+        placeholder="[100, 200, 0, 100]"
+      ></textarea>
+    </div>
+
+    <button class="primary-btn" (click)="calcular()" [disabled]="isLoading">
+      <span *ngIf="!isLoading">Calcular</span>
+      <span *ngIf="isLoading" class="loader"></span>
+    </button>
+
+    <div *ngIf="error" class="error-message">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+      {{ error }}
+    </div>
+
+    <div class="results-grid" *ngIf="resultado" [class.show]="resultado">
+      <div class="result-card">
+        <span class="label">Menor Valor</span>
+        <span class="value accent-red">
+          {{ resultado.menorFaturamento | currency:'BRL':'symbol':'1.2-2' }}
+        </span>
+      </div>
+      <div class="result-card">
+        <span class="label">Maior Valor</span>
+        <span class="value accent-green">
+          {{ resultado.maiorFaturamento | currency:'BRL':'symbol':'1.2-2' }}
+        </span>
+      </div>
+      <div class="result-card full-width">
+        <span class="label">Dias Acima da Média</span>
+        <span class="value accent-primary">
+          {{ resultado.diasAcimaDaMedia }} <span class="text-sm">dias</span>
+        </span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="background-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+  </div>
+</div>
+>>>>>>> Stashed changes
