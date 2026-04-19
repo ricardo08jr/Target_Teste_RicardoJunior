@@ -1,0 +1,12 @@
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.AssemblyInfoInputs.cache
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.AssemblyInfo.cs
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.csproj.CoreCompileInputs.cache
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.sourcelink.json
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\bin\Debug\net8.0\Target_Teste.Domain.deps.json
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\bin\Debug\net8.0\Target_Teste.Domain.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\bin\Debug\net8.0\Target_Teste.Domain.pdb
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\refint\Target_Teste.Domain.dll
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\Target_Teste.Domain.pdb
+D:\Progamação\Projetos\Target_Teste_RicardoJunior\Target_Teste\Target_Teste.Domain\obj\Debug\net8.0\ref\Target_Teste.Domain.dll
