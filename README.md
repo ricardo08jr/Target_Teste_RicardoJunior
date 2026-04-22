@@ -31,7 +31,7 @@ Certifique-se de ter o **Docker** e o **Docker Compose** instalados na sua máqu
 
 3. Após os serviços iniciarem, você poderá acessá-los nas seguintes URLs:
    - **Frontend (Angular):** [http://localhost:8080](http://localhost:8080)
-   - **Backend (API):** `http://localhost:3277`
+   - **Backend (API):** `http://localhost:3277/swagger/index.html`
 
 Para interromper a execução, pressione `Ctrl+C` no terminal ou execute o comando abaixo em outra janela do terminal na mesma pasta:
 
