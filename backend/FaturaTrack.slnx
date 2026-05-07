@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FaturaTrack.Api/FaturaTrack.Api.csproj" />
+    <Project Path="FaturaTrack.Application/FaturaTrack.Application.csproj" Id="0d8b5634-6123-40da-b18a-34586acb2550" />
+    <Project Path="FaturaTrack.Domain/FaturaTrack.Domain.csproj" Id="44f74358-b3eb-4889-b40a-f8d77bd02b1e" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="FaturaTrack.Domain.Tests/FaturaTrack.Domain.Tests.csproj" Id="64269cc3-5e33-4913-9db6-70d9b9785d48" />
+  </Folder>
+</Solution>
