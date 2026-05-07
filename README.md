@@ -65,7 +65,12 @@ O backend segue uma arquitetura especializada projetada para escalabilidade:
    docker-compose up --build
    ```
 
-3. **Acesse a aplicação**:
-   - **Frontend**: [http://localhost:8080](http://localhost:8080)
-   - **Documentação da API**: [http://localhost:3277/swagger/index.html](http://localhost:3277/swagger/index.html)
+3. Após os serviços iniciarem, você poderá acessá-los nas seguintes URLs:
+   - **Frontend (Angular):** [http://localhost:8080](http://localhost:8080)
+  - **Documentação da API**: [http://localhost:3277/swagger/index.html](http://localhost:3277/swagger/index.html)
 
+Para interromper a execução, pressione `Ctrl+C` no terminal ou execute o comando abaixo em outra janela do terminal na mesma pasta:
+
+```bash
+docker-compose down
+```
