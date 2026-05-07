@@ -12,7 +12,7 @@
 
 ## Visão Geral
 
-O **FaturaTrack** é uma aplicação full-stack robusta, desenvolvida para analisar e gerenciar dados de faturamento com precisão. Originalmente concebido como um desafio técnico, ele evoluiu para uma solução moderna e conteinerizada para cálculo e visualização de métricas financeiras.
+O **FaturaTrack** é uma aplicação full-stack robusta, vai ser evoluida para analisar e gerenciar dados de faturamento com precisão. Originalmente concebido como um desafio técnico, ele evoluiu para uma solução moderna e conteinerizada para cálculo e visualização de métricas financeiras.
 
 Com um frontend moderno em **Angular** (interface glassmorphic) e um backend de alta performance em **.NET 8**, o FaturaTrack demonstra as melhores práticas de desenvolvimento web moderno, incluindo arquitetura limpa e orquestração de containers.
 
