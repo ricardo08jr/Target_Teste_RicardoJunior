@@ -3,8 +3,8 @@ version: '3.8'
 services:
   backend:
     build:
-      context: ./Target_Teste
-      dockerfile: Target_Teste.Api/Dockerfile
+      context: ./backend
+      dockerfile: FaturaTrack.Api/Dockerfile
     ports:
       - "3277:8080"
     environment:
